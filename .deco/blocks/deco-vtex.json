@@ -1,0 +1,23 @@
+{
+  "__resolveType": "site/apps/deco/vtex.ts",
+  "salesChannel": "1",
+  "defaultSegment": {
+    "channelPrivacy": "public",
+    "channel": "1",
+    "currencyCode": "BRL",
+    "currencySymbol": "R$",
+    "countryCode": "BRA",
+    "cultureInfo": "pt-BR"
+  },
+  "platform": "vtex",
+  "account": "ibmpartnerbr",
+  "publicUrl": "https://ibmpartnerbr.myvtex.com/",
+  "appKey": {
+    "__resolveType": "website/loaders/secret.ts",
+    "encrypted": "e220bb0f08fed8ce7fc0377b4c99146a45ec4ed5f1d80a46ca76ed2647a75012"
+  },
+  "appToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "encrypted": "e220bb0f08fed8ce7fc0377b4c99146a45ec4ed5f1d80a46ca76ed2647a75012"
+  }
+}
